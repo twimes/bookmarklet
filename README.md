@@ -1,2 +1,3 @@
-# bookmarklet
-Source for the twimes.io bookmarklet
+# twimes.io Bookmarklet Source
+
+This is the sourcecode for the twimes.io bookmarklet.
